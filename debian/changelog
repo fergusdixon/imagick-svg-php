@@ -1,0 +1,72 @@
+imagick-svg-php (1.0-2ubuntu5) trusty; urgency=medium
+
+  * trusty build
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 16:27:34 +0200
+
+imagick-svg-php (1.0-2ubuntu3) bionic; urgency=medium
+
+  * Another version bump for launchpad
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 14:06:25 +0200
+
+imagick-svg-php (1.0-2ubuntu2) bionic; urgency=medium
+
+  * Version bump to fix launchpad upload error
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 13:53:01 +0200
+
+imagick-svg-php (1.0-2ubuntu1) bionic; urgency=medium
+
+  * Version bump
+  * Change distro to bionic
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 13:40:35 +0200
+
+imagick-svg-php (1.0-1ubuntu7) unstable; urgency=medium
+
+  * Depend on php-dev for phpize 
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 12:27:04 +0200
+
+imagick-svg-php (1.0-1ubuntu6) unstable; urgency=medium
+
+  * Fix debian/install to copy tar 
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 12:17:11 +0200
+
+imagick-svg-php (1.0-1ubuntu5) unstable; urgency=medium
+
+  * Fix imagick tar path again
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 12:10:45 +0200
+
+imagick-svg-php (1.0-1ubuntu4) unstable; urgency=medium
+
+  * Fix tar path in postinst 
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 11:58:19 +0200
+
+imagick-svg-php (1.0-1ubuntu3) unstable; urgency=medium
+
+  * Move imagick tarball
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 11:54:28 +0200
+
+imagick-svg-php (1.0-1ubuntu2) unstable; urgency=medium
+
+  * Fix install script location 
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 11:35:35 +0200
+
+imagick-svg-php (1.0-1ubuntu1) unstable; urgency=medium
+
+  * Add Imagick lib and postinst instructions to configure svg.
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 11:17:22 +0200
+
+imagick-svg-php (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 10:42:26 +0200

@@ -1,0 +1,14 @@
+Source: imagick-svg-php
+Section: libdevel
+Priority: optional
+Maintainer: Fergus Strangways-Dixon <fergusdixon101@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/imagick-svg-php.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/imagick-svg-php.git
+
+Package: imagick-svg-php
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-dev, librsvg2-bin, libxml2, libgraphicsmagick1-dev, libmagickcore-dev, graphicsmagick, graphicsmagick-dbg, php-dev
+Description: Imagick Configured to work with SVG in PHP
+

@@ -1,0 +1,11 @@
+tar xzf /tmp/7.0.8-7.tar.gz
+cd ImageMagick-7.0.8-7
+./configure --prefix=/usr --with-rsvg --with-xml
+make
+sudo make install
+cd ..
+sudo ldconfig /usr/local/lib
+pear config-set preferred_state beta
+pecl channel-update pecl.php.net
+yes | pecl install imagick-beta;
+

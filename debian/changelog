@@ -1,3 +1,9 @@
+imagick-svg-php (1.0-2ubuntu6) trusty; urgency=medium
+
+  * add vcs
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Tue, 02 Oct 2018 17:03:41 +0200
+
 imagick-svg-php (1.0-2ubuntu5) trusty; urgency=medium
 
   * trusty build

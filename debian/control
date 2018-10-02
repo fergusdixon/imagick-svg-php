@@ -4,8 +4,8 @@ Priority: optional
 Maintainer: Fergus Strangways-Dixon <fergusdixon101@gmail.com>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.1.2
-#Vcs-Git: https://anonscm.debian.org/git/collab-maint/imagick-svg-php.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/imagick-svg-php.git
+Vcs-Git: https://github.com/fergusdixon/imagick-svg-php.git
+Vcs-Browser: https://github.com/fergusdixon/imagick-svg-php
 
 Package: imagick-svg-php
 Architecture: all

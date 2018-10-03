@@ -4,7 +4,3 @@ cd ImageMagick-7.0.8-7
 sudo make install
 cd -
 sudo ldconfig /usr/local/lib
-pear config-set preferred_state beta
-pecl channel-update pecl.php.net
-yes | pecl install imagick-beta;
-

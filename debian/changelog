@@ -1,3 +1,9 @@
+imagick-svg-php (1.0-3ubuntu5) trusty; urgency=medium
+
+  * remove pecl and pear install sequence from postins 
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Wed, 03 Oct 2018 15:46:51 +0200
+
 imagick-svg-php (1.0-3ubuntu4) trusty; urgency=medium
 
   * fix working dir

@@ -1,7 +1,8 @@
-tar xzf /tmp/ImageMagick-7.0.8-7.tar.gz
+cd /tmp
+tar xzf ImageMagick-7.0.8-7.tar.gz
 cd ImageMagick-7.0.8-7
 sudo make install
-cd ..
+cd -
 sudo ldconfig /usr/local/lib
 pear config-set preferred_state beta
 pecl channel-update pecl.php.net

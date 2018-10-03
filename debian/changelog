@@ -1,3 +1,15 @@
+imagick-svg-php (1.0-3ubuntu1) trusty; urgency=medium
+
+  * Pre configure Imagick
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Wed, 03 Oct 2018 10:06:06 +0200
+
+imagick-svg-php (1.0-2ubuntu7) trusty; urgency=medium
+
+  * Downgrade debhelper to v9 for trusty
+
+ -- Fergus Strangways-Dixon <fergusdixon101@gmail.com>  Wed, 03 Oct 2018 09:10:45 +0200
+
 imagick-svg-php (1.0-2ubuntu6) trusty; urgency=medium
 
   * add vcs

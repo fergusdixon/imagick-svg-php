@@ -1,7 +1,5 @@
-tar xzf /tmp/7.0.8-7.tar.gz
+tar xzf /tmp/ImageMagick-7.0.8-7.tar.gz
 cd ImageMagick-7.0.8-7
-./configure --prefix=/usr --with-rsvg --with-xml
-make
 sudo make install
 cd ..
 sudo ldconfig /usr/local/lib

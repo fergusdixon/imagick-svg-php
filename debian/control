@@ -9,6 +9,6 @@ Vcs-Browser: https://github.com/fergusdixon/imagick-svg-php
 
 Package: imagick-svg-php
 Architecture: all
-Depends: ${misc:Depends}, librsvg2-dev, librsvg2-bin, libxml2, libgraphicsmagick1-dev, libmagickcore-dev, graphicsmagick, graphicsmagick-dbg, php-dev
+Depends: ${misc:Depends}, librsvg2-dev, librsvg2-bin, libxml2, libgraphicsmagick1-dev, libmagickcore-dev, graphicsmagick, graphicsmagick-dbg, php-dev, php-xml
 Description: Imagick Configured to work with SVG in PHP
 
